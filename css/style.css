@@ -1,0 +1,113 @@
+.bd{
+	background-color: #191818;
+}
+.container{
+	width: 1200px;
+    height: 1000px;
+    background-color: #e0e01a;
+    margin: 0 auto;
+}
+.header{
+ 	width: 100%;
+    height: 100px;
+    background-color: blue;
+}
+.logo{
+	width: 400px;
+    height: 100%;
+    background-color: #ff470099;
+    float: left;
+
+}
+.menu{
+	width: 800px;
+    height: 100%;
+    background-color: #0089ffa8;
+    float: left;
+
+}
+.body{
+	width: 100%;
+    height: 600px;
+    background-color: red;
+
+}
+.left_banner{
+	width: 400px;
+    height: 100%;
+    background-color: #804fdef0;
+    float: left;
+
+}
+.right_side{
+	width: 800px;
+    height: 100%;
+    background-color: #800080cc;
+    float: left;
+
+}
+.part_one{
+	width: 100%;
+    height: 100px;
+    background-color: #d65959de;
+
+}
+.part_2{
+	width: 100%;
+    height: 100px;
+    background-color: burlywood;
+
+}
+.images{
+	width: 100%;
+    height: 400px;
+    background-color: cornflowerblue;
+
+}
+.image_one{
+	width: 50%;
+    height: 100%;
+    background-color: #352842eb;
+    float: left;
+
+}
+.images_two{
+	width: 50%;
+    height: 100%;
+    background-color: #000000ad;
+    float: left;
+
+}
+.bottom{
+	width: 100%;
+    height: 300px;
+    background-color: chartreuse;
+
+}
+.social_links{
+	width: 100%;
+    height: 150px;
+    background-color: coral;
+}
+.facebook{
+	width: 50%;
+    height: 100%;
+    background-color: darkslategrey;
+    float: left;
+
+}
+.youtube{
+	width: 50%;
+    height: 100%;
+    background-color: #408a68;
+    float: left;
+
+}
+.footer{
+	width: 100%;
+    height: 150px;
+    background-color: darkgoldenrod;
+
+
+
+}
